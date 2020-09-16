@@ -1,1 +1,2 @@
-# myapp
+# my-app
+Sample mvn app
